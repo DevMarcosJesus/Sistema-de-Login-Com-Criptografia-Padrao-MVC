@@ -8,10 +8,12 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap/bootstrap.min.css">
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/index.css">
 	<!-- GoogleFonts - OpenSans -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<!-- Fontawesome 5.0-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+   
 </head>
 <body>
 
