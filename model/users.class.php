@@ -9,14 +9,14 @@ class Users extends  Conexao{
         $sql->bindValue(":email", $email);
         $sql->bindValue(":password", $password);
         $sql->execute();
-
+        
         if($sql->rowCount() > 0){
             $sql = $sql->fetch();
             $id = $sql['id'];
 
             $_SESSION['user'] = $id;        
             
-            header("Location: ../index.php?login_sucess");
+            header("Location: ../view/index.php?login_sucess");
         }
     }
 }

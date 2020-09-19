@@ -8,7 +8,6 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap/bootstrap.min.css">
 	<!-- CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/index.css">
 	<!-- GoogleFonts - OpenSans -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 	<!-- Fontawesome 5.0-->
@@ -25,7 +24,7 @@
 		<h1> Sistema de Login</h1>
 
 		<!-- Form for Login -->
-			<form method="POST" class="log" action="">
+			<form method="POST" class="log" action="controller/loginController.php">
 
 				<br><br><p>Entre na sua conta:</p><br>
 
