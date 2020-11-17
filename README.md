@@ -1,6 +1,7 @@
 # Sistema-de-Login-Com-Criptografia-Padrao-MVC
-Sistema de Login Orientado a Objeto com Padrão MVC + Criptografia SHA1 com MD5
 
-Tela de Login 
+System in login with POO with Padration MVC + Criptografy SHA1 and MD5
+
+Screen login 
 
 <img src="projeto.png">
